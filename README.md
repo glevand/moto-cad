@@ -6,6 +6,8 @@ CAD design files for motorcycle parts and tools.  Most files are in the [AutoCAD
 
 ![yz125-crank-stuffer](yz125-crank-stuffer.png)
 
+[<img src="yz125-crank-stuffer.jpg">](yz125-crank-stuffer.jpg)
+
 ## Licence & Usage
 
 All files in the
